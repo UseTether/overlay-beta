@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='afcniebmlgnaffbjlofgafengdbopcej'>
     <updatecheck 
-      codebase='https://github.com/UseTether/overlay-beta/releases/download/v1.0.3/tether-overlay.crx' 
-      version='1.0.3' />
+      codebase='https://github.com/UseTether/overlay-beta/releases/download/v1.0.4/tether-overlay.crx' 
+      version='1.0.4' />
   </app>
 </gupdate>
